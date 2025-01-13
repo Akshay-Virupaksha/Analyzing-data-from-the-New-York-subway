@@ -1,8 +1,8 @@
-#NYC Subway Data Analysis
+## NYC Subway Data Analysis
 
 This project is part of Udacity's Big Data Foundations Nanodegree. The analysis involves exploring NYC subway data to uncover meaningful insights and implement data processing techniques, including MapReduce.
 
-##Project Overview
+## Project Overview
 
 The project analyses subway ridership data to answer specific questions about trends, behaviours, and other factors influencing subway usage. It also demonstrates the use of **MapReduce** for distributed data processing.
 
